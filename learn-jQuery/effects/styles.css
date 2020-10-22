@@ -1,0 +1,18 @@
+body {
+    background-color: #86bdfd;
+}
+table {
+    width: 100%;
+    border: 1px #0b2748 solid;
+    border-spacing: 0;
+}
+.header-small {
+    height: 69px;
+    background-color: #ffffff;
+}
+.header-big {
+    background-color: #ffffff;
+}
+th {
+    border: 1px #0b2748 solid;
+}
